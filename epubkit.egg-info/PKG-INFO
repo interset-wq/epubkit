@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: epubkit
+Version: 0.1.0
+Summary: A library to convert Markdown or HTML to EPUB eBooks
+Home-page: https://github.com/interset-wq/epubkit
+Author: interset-wq
+Author-email: intersetwq@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: beautifulsoup4
+Requires-Dist: markdown
+Requires-Dist: pillow
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+epubkit is a Python library that allows you to convert Markdown or HTML files into EPUB eBooks. It uses the latest EPUB specification and standard library for zip compression.

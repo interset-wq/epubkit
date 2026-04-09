@@ -1,0 +1,13 @@
+README.md
+setup.py
+epubkit/__init__.py
+epubkit/converter.py
+epubkit/core.py
+epubkit/utils.py
+epubkit.egg-info/PKG-INFO
+epubkit.egg-info/SOURCES.txt
+epubkit.egg-info/dependency_links.txt
+epubkit.egg-info/requires.txt
+epubkit.egg-info/top_level.txt
+tests/__init__.py
+tests/test_epubkit.py
